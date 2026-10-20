@@ -1,0 +1,14 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment Configuration
+.env
+.env.local
+
+# Vercel Deployment Folder
+.vercel
+
+# Logs
+*.log
